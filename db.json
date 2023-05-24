@@ -1,0 +1,73 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Võ Văn Cường",
+      "dateOfBirth": "2001/02/03",
+      "phoneNumber": "0312678643",
+      "gender": true,
+      "class": {
+        "id": 1,
+        "name": "C08GG1"
+      }
+    },
+    {
+      "name": "Tran Van Sy",
+      "dateOfBirth": "2023-05-13",
+      "phoneNumber": "0311111111",
+      "gender": false,
+      "class": {
+        "id": 3,
+        "name": "C10GG1"
+      },
+      "id": 2
+    },
+    {
+      "name": "Nguyen Thien Phuc c",
+      "dateOfBirth": "2023-05-21",
+      "phoneNumber": "0999999999",
+      "gender": false,
+      "class": {
+        "id": 3,
+        "name": "C10GG1"
+      },
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Cao Đức Kim Minh",
+      "dateOfBirth": "1994/02/03",
+      "phoneNumber": "0311178643",
+      "gender": false,
+      "class": {
+        "id": 2,
+        "name": "C09GG1"
+      }
+    },
+    {
+      "name": "Bui Dang Cong",
+      "dateOfBirth": "2005-05-12",
+      "phoneNumber": "0332131222",
+      "gender": false,
+      "class": {
+        "id": 3,
+        "name": "C10GG1"
+      },
+      "id": 5
+    }
+  ],
+  "class": [
+    {
+      "id": 1,
+      "name": "C08GG1"
+    },
+    {
+      "id": 2,
+      "name": "C09GG1"
+    },
+    {
+      "id": 3,
+      "name": "C10GG1"
+    }
+  ]
+}
